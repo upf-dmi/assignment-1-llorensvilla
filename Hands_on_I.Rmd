@@ -1,5 +1,5 @@
 ---
-title: "my title"
+title: "Lloenç"
 author: "Dummy Surname (dummy@mail.com)"
 date: "Last update: `r format(Sys.time(), '%d %B, %Y')`"      
 output:
